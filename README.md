@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lion Circuit File Portal
 
 A comprehensive file management portal built with Django REST Framework backend and React frontend. This application allows users to register, upload and manage files, maintain profile information including addresses and phone numbers, and view portal statistics.
